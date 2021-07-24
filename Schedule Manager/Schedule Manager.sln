@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule Manager", "Schedule Manager.csproj", "{5487E627-B3F7-49B6-AB1F-2F0F57B62DDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A0EFFE07-2676-4536-8D6A-EDC70A058568}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5487E627-B3F7-49B6-AB1F-2F0F57B62DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5487E627-B3F7-49B6-AB1F-2F0F57B62DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5487E627-B3F7-49B6-AB1F-2F0F57B62DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5487E627-B3F7-49B6-AB1F-2F0F57B62DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6115509D-9A38-402A-9659-AC9F19103605}
+	EndGlobalSection
+EndGlobal

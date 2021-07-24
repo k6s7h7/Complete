@@ -1,0 +1,125 @@
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Work\VS AI\StockTrading\StockTrading\obj\x86\Release\StockTrading.csprojAssemblyReference.cache
+D:\Temp\StockTrading\StockTrading\bin\x86\Release\StockTrading.exe
+D:\Temp\StockTrading\StockTrading\bin\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading\StockTrading\bin\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading\StockTrading\bin\x86\Release\StockTrading.exe.config
+D:\Temp\StockTrading\StockTrading\bin\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.exe
+D:\Temp\StockTrading\StockTrading\obj\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월13일)\StockTrading\bin\x86\Release\StockTrading.exe.config
+D:\Temp\StockTrading(5월13일)\StockTrading\bin\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월13일)\StockTrading\bin\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월13일)\StockTrading\bin\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월13일)\StockTrading\bin\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월13일)\StockTrading\obj\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월18일)\StockTrading\bin\x86\Release\StockTrading.exe.config
+D:\Temp\StockTrading(5월18일)\StockTrading\bin\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월18일)\StockTrading\bin\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월18일)\StockTrading\bin\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월18일)\StockTrading\bin\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.csprojAssemblyReference.cache
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월18일)\StockTrading\obj\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월20일)\StockTrading\bin\x86\Release\StockTrading.exe.config
+D:\Temp\StockTrading(5월20일)\StockTrading\bin\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월20일)\StockTrading\bin\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월20일)\StockTrading\bin\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월20일)\StockTrading\bin\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.csprojAssemblyReference.cache
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월20일)\StockTrading\obj\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Temp\StockTrading(5월27일)\StockTrading\bin\x86\Release\StockTrading.exe.config
+D:\Temp\StockTrading(5월27일)\StockTrading\bin\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월27일)\StockTrading\bin\x86\Release\StockTrading.pdb
+D:\Temp\StockTrading(5월27일)\StockTrading\bin\x86\Release\Interop.XA_DATASETLib.dll
+D:\Temp\StockTrading(5월27일)\StockTrading\bin\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.exe
+D:\Temp\StockTrading(5월27일)\StockTrading\obj\x86\Release\StockTrading.pdb
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\bin\x86\Release\StockTrading.exe.config
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\bin\x86\Release\StockTrading.exe
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\bin\x86\Release\StockTrading.pdb
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\bin\x86\Release\Interop.XA_DATASETLib.dll
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\bin\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.exe
+D:\Work\VS 2021\StockTrading(6월2일)\StockTrading\obj\x86\Release\StockTrading.pdb
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\bin\x86\Release\StockTrading.exe.config
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\bin\x86\Release\StockTrading.exe
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\bin\x86\Release\StockTrading.pdb
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\bin\x86\Release\Interop.XA_DATASETLib.dll
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\bin\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.csprojAssemblyReference.cache
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\Interop.XA_DATASETLib.dll
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\Interop.XA_SESSIONLib.dll
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.csproj.ResolveComReference.cache
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.Audit.resources
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.Infobox.resources
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.Stock.resources
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.Properties.Resources.resources
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.csproj.GenerateResource.cache
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.csproj.CoreCompileInputs.cache
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.exe
+D:\Work\VS 2021\StockTrading(6월9일)\StockTrading\obj\x86\Release\StockTrading.pdb

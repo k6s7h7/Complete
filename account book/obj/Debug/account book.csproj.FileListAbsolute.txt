@@ -1,0 +1,17 @@
+D:\Work\VS 2019\account book\bin\Debug\account book.exe.config
+D:\Work\VS 2019\account book\bin\Debug\account book.exe
+D:\Work\VS 2019\account book\bin\Debug\account book.pdb
+D:\Work\VS 2019\account book\obj\Debug\account_book.House.resources
+D:\Work\VS 2019\account book\obj\Debug\account_book.Properties.Resources.resources
+D:\Work\VS 2019\account book\obj\Debug\account book.csproj.GenerateResource.cache
+D:\Work\VS 2019\account book\obj\Debug\account book.exe
+D:\Work\VS 2019\account book\obj\Debug\account book.pdb
+D:\Temp\account book\bin\Debug\account book.exe.config
+D:\Temp\account book\bin\Debug\account book.exe
+D:\Temp\account book\bin\Debug\account book.pdb
+D:\Temp\account book\obj\Debug\account_book.Account.resources
+D:\Temp\account book\obj\Debug\account_book.House.resources
+D:\Temp\account book\obj\Debug\account_book.Properties.Resources.resources
+D:\Temp\account book\obj\Debug\account book.csproj.GenerateResource.cache
+D:\Temp\account book\obj\Debug\account book.exe
+D:\Temp\account book\obj\Debug\account book.pdb

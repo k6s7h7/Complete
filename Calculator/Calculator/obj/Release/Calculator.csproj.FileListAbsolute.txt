@@ -1,0 +1,28 @@
+D:\Work\VS2015\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Work\VS2015\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Work\VS2015\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Work\VS2015\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\Work\VS2015\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Work\VS2015\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+D:\Work\VS2015\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\Work\VS2015\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Work\VS2015\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\Temp\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Temp\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Temp\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Temp\Calculator\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+D:\Temp\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\Temp\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Temp\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+D:\Temp\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\Temp\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Temp\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\Work\VS 2015\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Work\VS 2015\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Work\VS 2015\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Work\VS 2015\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\Work\VS 2015\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Work\VS 2015\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+D:\Work\VS 2015\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Work\VS 2015\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\Work\VS 2015\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache

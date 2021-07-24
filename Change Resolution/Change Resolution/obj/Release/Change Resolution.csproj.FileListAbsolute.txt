@@ -1,0 +1,37 @@
+D:\Work\VS AI\Change Resolution\Change Resolution\bin\Release\Change Resolution.exe.config
+D:\Work\VS AI\Change Resolution\Change Resolution\bin\Release\Change Resolution.exe
+D:\Work\VS AI\Change Resolution\Change Resolution\bin\Release\Change Resolution.pdb
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Release\Change_Resolution.Form1.resources
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Release\Change_Resolution.Properties.Resources.resources
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Release\Change Resolution.csproj.GenerateResource.cache
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Release\Change Resolution.csproj.CoreCompileInputs.cache
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Release\Change Resolution.exe
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Release\Change Resolution.pdb
+D:\Temp\Change Resolution\Change Resolution\bin\Release\Change Resolution.exe.config
+D:\Temp\Change Resolution\Change Resolution\bin\Release\Change Resolution.exe
+D:\Temp\Change Resolution\Change Resolution\bin\Release\Change Resolution.pdb
+D:\Temp\Change Resolution\Change Resolution\obj\Release\Change_Resolution.Form1.resources
+D:\Temp\Change Resolution\Change Resolution\obj\Release\Change_Resolution.Properties.Resources.resources
+D:\Temp\Change Resolution\Change Resolution\obj\Release\Change Resolution.csproj.GenerateResource.cache
+D:\Temp\Change Resolution\Change Resolution\obj\Release\Change Resolution.csproj.CoreCompileInputs.cache
+D:\Temp\Change Resolution\Change Resolution\obj\Release\Change Resolution.exe
+D:\Temp\Change Resolution\Change Resolution\obj\Release\Change Resolution.pdb
+D:\Temp\Change Resolution\Change Resolution\obj\Release\Change Resolution.csprojAssemblyReference.cache
+D:\Work\VS 2021\Change Resolution\Change Resolution\obj\Release\Change_Resolution.Form1.resources
+D:\Work\VS 2021\Change Resolution\Change Resolution\obj\Release\Change_Resolution.Properties.Resources.resources
+D:\Work\VS 2021\Change Resolution\Change Resolution\obj\Release\Change Resolution.csproj.GenerateResource.cache
+D:\Work\VS 2021\Change Resolution\Change Resolution\obj\Release\Change Resolution.csproj.CoreCompileInputs.cache
+D:\Work\VS 2021\Change Resolution\Change Resolution\obj\Release\Change Resolution.exe
+D:\Work\VS 2021\Change Resolution\Change Resolution\obj\Release\Change Resolution.pdb
+D:\Work\VS 2021\Change Resolution\Change Resolution\bin\Release\Change Resolution.exe.config
+D:\Work\VS 2021\Change Resolution\Change Resolution\bin\Release\Change Resolution.exe
+D:\Work\VS 2021\Change Resolution\Change Resolution\bin\Release\Change Resolution.pdb
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\bin\Release\Change Resolution.exe.config
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\bin\Release\Change Resolution.exe
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\bin\Release\Change Resolution.pdb
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\obj\Release\Change_Resolution.Form1.resources
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\obj\Release\Change_Resolution.Properties.Resources.resources
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\obj\Release\Change Resolution.csproj.GenerateResource.cache
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\obj\Release\Change Resolution.csproj.CoreCompileInputs.cache
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\obj\Release\Change Resolution.exe
+D:\Work\VS AI\Change Resolution(수정본)\Change Resolution\obj\Release\Change Resolution.pdb

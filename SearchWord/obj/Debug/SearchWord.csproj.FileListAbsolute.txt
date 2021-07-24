@@ -1,0 +1,9 @@
+D:\Work\VS 2019\SearchWord\bin\Debug\SearchWord.exe.config
+D:\Work\VS 2019\SearchWord\bin\Debug\SearchWord.exe
+D:\Work\VS 2019\SearchWord\bin\Debug\SearchWord.pdb
+D:\Work\VS 2019\SearchWord\obj\Debug\SearchWord.csprojAssemblyReference.cache
+D:\Work\VS 2019\SearchWord\obj\Debug\SearchWord.Main.resources
+D:\Work\VS 2019\SearchWord\obj\Debug\SearchWord.Properties.Resources.resources
+D:\Work\VS 2019\SearchWord\obj\Debug\SearchWord.csproj.GenerateResource.cache
+D:\Work\VS 2019\SearchWord\obj\Debug\SearchWord.exe
+D:\Work\VS 2019\SearchWord\obj\Debug\SearchWord.pdb

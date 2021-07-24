@@ -1,0 +1,40 @@
+D:\Work\VS 2019\Schedule Manager\obj\Release\Schedule_Manager.Schedule.resources
+D:\Work\VS 2019\Schedule Manager\obj\Release\Schedule_Manager.Properties.Resources.resources
+D:\Work\VS 2019\Schedule Manager\obj\Release\Schedule Manager.csproj.GenerateResource.cache
+D:\Work\VS 2019\Schedule Manager\bin\Release\Schedule Manager.exe.config
+D:\Work\VS 2019\Schedule Manager\bin\Release\Schedule Manager.exe
+D:\Work\VS 2019\Schedule Manager\bin\Release\Schedule Manager.pdb
+D:\Work\VS 2019\Schedule Manager\obj\Release\Schedule Manager.exe
+D:\Work\VS 2019\Schedule Manager\obj\Release\Schedule Manager.pdb
+D:\Work\VS 2019\Schedule Manager\obj\Release\Schedule_Manager.ManagerAnni.resources
+D:\Temp\Schedule Manager\obj\Release\Schedule_Manager.ManagerAnni.resources
+D:\Temp\Schedule Manager\obj\Release\Schedule_Manager.Schedule.resources
+D:\Temp\Schedule Manager\obj\Release\Schedule_Manager.Properties.Resources.resources
+D:\Temp\Schedule Manager\obj\Release\Schedule Manager.csproj.GenerateResource.cache
+D:\Temp\Schedule Manager\obj\Release\Schedule Manager.exe
+D:\Temp\Schedule Manager\obj\Release\Schedule Manager.pdb
+D:\Temp\Schedule Manager\bin\Release\Schedule Manager.exe.config
+D:\Temp\Schedule Manager\bin\Release\Schedule Manager.exe
+D:\Temp\Schedule Manager\bin\Release\Schedule Manager.pdb
+D:\Work\VS 2019\Schedule Manager(최종)\bin\Release\Schedule Manager.exe.config
+D:\Work\VS 2019\Schedule Manager(최종)\bin\Release\Schedule Manager.exe
+D:\Work\VS 2019\Schedule Manager(최종)\bin\Release\Schedule Manager.pdb
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule_Manager.ManagerAnni.resources
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule_Manager.Schedule.resources
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule_Manager.Properties.Resources.resources
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule Manager.csproj.GenerateResource.cache
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule Manager.exe
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule Manager.pdb
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule Manager.csproj.CoreCompileInputs.cache
+D:\Work\VS 2019\Schedule Manager(최종)\obj\Release\Schedule Manager.csprojAssemblyReference.cache
+D:\Temp\Schedule Manager(최종)\bin\Release\Schedule Manager.exe.config
+D:\Temp\Schedule Manager(최종)\bin\Release\Schedule Manager.exe
+D:\Temp\Schedule Manager(최종)\bin\Release\Schedule Manager.pdb
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule Manager.csprojAssemblyReference.cache
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule_Manager.ManagerAnni.resources
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule_Manager.Schedule.resources
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule_Manager.Properties.Resources.resources
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule Manager.csproj.GenerateResource.cache
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule Manager.csproj.CoreCompileInputs.cache
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule Manager.exe
+D:\Temp\Schedule Manager(최종)\obj\Release\Schedule Manager.pdb

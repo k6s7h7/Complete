@@ -1,0 +1,20 @@
+D:\Work\VS 2019\SearchWord\bin\Release\SearchWord.exe.config
+D:\Work\VS 2019\SearchWord\bin\Release\SearchWord.exe
+D:\Work\VS 2019\SearchWord\bin\Release\SearchWord.pdb
+D:\Work\VS 2019\SearchWord\obj\Release\SearchWord.Main.resources
+D:\Work\VS 2019\SearchWord\obj\Release\SearchWord.Properties.Resources.resources
+D:\Work\VS 2019\SearchWord\obj\Release\SearchWord.csproj.GenerateResource.cache
+D:\Work\VS 2019\SearchWord\obj\Release\SearchWord.exe
+D:\Work\VS 2019\SearchWord\obj\Release\SearchWord.pdb
+D:\Work\VS 2019\SearchWord\obj\Release\SearchWord.csprojAssemblyReference.cache
+D:\Work\VS 2019\SearchWord\obj\Release\SearchWord.csproj.CoreCompileInputs.cache
+D:\Work\github\Working\SearchWord\bin\Release\SearchWord.exe.config
+D:\Work\github\Working\SearchWord\bin\Release\SearchWord.exe
+D:\Work\github\Working\SearchWord\bin\Release\SearchWord.pdb
+D:\Work\github\Working\SearchWord\obj\Release\SearchWord.csproj.AssemblyReference.cache
+D:\Work\github\Working\SearchWord\obj\Release\SearchWord.Main.resources
+D:\Work\github\Working\SearchWord\obj\Release\SearchWord.Properties.Resources.resources
+D:\Work\github\Working\SearchWord\obj\Release\SearchWord.csproj.GenerateResource.cache
+D:\Work\github\Working\SearchWord\obj\Release\SearchWord.csproj.CoreCompileInputs.cache
+D:\Work\github\Working\SearchWord\obj\Release\SearchWord.exe
+D:\Work\github\Working\SearchWord\obj\Release\SearchWord.pdb

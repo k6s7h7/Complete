@@ -1,0 +1,10 @@
+D:\Work\VS AI\Change Resolution\Change Resolution\bin\Debug\Change Resolution.exe.config
+D:\Work\VS AI\Change Resolution\Change Resolution\bin\Debug\Change Resolution.exe
+D:\Work\VS AI\Change Resolution\Change Resolution\bin\Debug\Change Resolution.pdb
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Debug\Change Resolution.csprojAssemblyReference.cache
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Debug\Change_Resolution.Form1.resources
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Debug\Change_Resolution.Properties.Resources.resources
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Debug\Change Resolution.csproj.GenerateResource.cache
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Debug\Change Resolution.csproj.CoreCompileInputs.cache
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Debug\Change Resolution.exe
+D:\Work\VS AI\Change Resolution\Change Resolution\obj\Debug\Change Resolution.pdb
