@@ -1,0 +1,68 @@
+D:\Work\VS 2019\account book\bin\Release\account book.exe.config
+D:\Work\VS 2019\account book\bin\Release\account book.exe
+D:\Work\VS 2019\account book\bin\Release\account book.pdb
+D:\Work\VS 2019\account book\obj\Release\account_book.House.resources
+D:\Work\VS 2019\account book\obj\Release\account_book.Properties.Resources.resources
+D:\Work\VS 2019\account book\obj\Release\account book.csproj.GenerateResource.cache
+D:\Work\VS 2019\account book\obj\Release\account book.exe
+D:\Work\VS 2019\account book\obj\Release\account book.pdb
+D:\Work\VS 2019\account book\obj\Release\account_book.Account.resources
+D:\Work\VS2019\account book\bin\Release\account book.exe.config
+D:\Work\VS2019\account book\bin\Release\account book.exe
+D:\Work\VS2019\account book\bin\Release\account book.pdb
+D:\Work\VS2019\account book\obj\Release\account_book.Account.resources
+D:\Work\VS2019\account book\obj\Release\account_book.House.resources
+D:\Work\VS2019\account book\obj\Release\account_book.Properties.Resources.resources
+D:\Work\VS2019\account book\obj\Release\account book.csproj.GenerateResource.cache
+D:\Work\VS2019\account book\obj\Release\account book.exe
+D:\Work\VS2019\account book\obj\Release\account book.pdb
+D:\Temp\account book (2)\bin\Release\account book.exe.config
+D:\Temp\account book (2)\bin\Release\account book.exe
+D:\Temp\account book (2)\bin\Release\account book.pdb
+D:\Temp\account book (2)\obj\Release\account_book.Account.resources
+D:\Temp\account book (2)\obj\Release\account_book.Category.resources
+D:\Temp\account book (2)\obj\Release\account_book.House.resources
+D:\Temp\account book (2)\obj\Release\account_book.Properties.Resources.resources
+D:\Temp\account book (2)\obj\Release\account_book.Search.resources
+D:\Temp\account book (2)\obj\Release\account_book.Statistics.resources
+D:\Temp\account book (2)\obj\Release\account book.csproj.GenerateResource.cache
+D:\Temp\account book (2)\obj\Release\account book.exe
+D:\Temp\account book (2)\obj\Release\account book.pdb
+D:\Temp\account book\bin\Release\account book.exe.config
+D:\Temp\account book\bin\Release\account book.exe
+D:\Temp\account book\bin\Release\account book.pdb
+D:\Temp\account book\obj\Release\account_book.Account.resources
+D:\Temp\account book\obj\Release\account_book.Category.resources
+D:\Temp\account book\obj\Release\account_book.House.resources
+D:\Temp\account book\obj\Release\account_book.Properties.Resources.resources
+D:\Temp\account book\obj\Release\account_book.Search.resources
+D:\Temp\account book\obj\Release\account_book.Statistics.resources
+D:\Temp\account book\obj\Release\account book.csproj.GenerateResource.cache
+D:\Temp\account book\obj\Release\account book.exe
+D:\Temp\account book\obj\Release\account book.pdb
+D:\Work\VS 2019\account book(최종)\bin\Release\account book.exe.config
+D:\Work\VS 2019\account book(최종)\bin\Release\account book.exe
+D:\Work\VS 2019\account book(최종)\bin\Release\account book.pdb
+D:\Work\VS 2019\account book(최종)\obj\Release\account_book.Account.resources
+D:\Work\VS 2019\account book(최종)\obj\Release\account_book.Category.resources
+D:\Work\VS 2019\account book(최종)\obj\Release\account_book.House.resources
+D:\Work\VS 2019\account book(최종)\obj\Release\account_book.Properties.Resources.resources
+D:\Work\VS 2019\account book(최종)\obj\Release\account_book.Search.resources
+D:\Work\VS 2019\account book(최종)\obj\Release\account_book.Statistics.resources
+D:\Work\VS 2019\account book(최종)\obj\Release\account book.csproj.GenerateResource.cache
+D:\Work\VS 2019\account book(최종)\obj\Release\account book.exe
+D:\Work\VS 2019\account book(최종)\obj\Release\account book.pdb
+D:\Work\VS 2019\account book(최종)\obj\Release\account book.csproj.CoreCompileInputs.cache
+D:\Work\github\Working\bin\Release\account book.exe.config
+D:\Work\github\Working\bin\Release\account book.exe
+D:\Work\github\Working\bin\Release\account book.pdb
+D:\Work\github\Working\obj\Release\account_book.Account.resources
+D:\Work\github\Working\obj\Release\account_book.Category.resources
+D:\Work\github\Working\obj\Release\account_book.House.resources
+D:\Work\github\Working\obj\Release\account_book.Properties.Resources.resources
+D:\Work\github\Working\obj\Release\account_book.Search.resources
+D:\Work\github\Working\obj\Release\account_book.Statistics.resources
+D:\Work\github\Working\obj\Release\account book.csproj.GenerateResource.cache
+D:\Work\github\Working\obj\Release\account book.csproj.CoreCompileInputs.cache
+D:\Work\github\Working\obj\Release\account book.exe
+D:\Work\github\Working\obj\Release\account book.pdb
